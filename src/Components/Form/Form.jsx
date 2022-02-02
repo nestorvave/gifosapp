@@ -64,7 +64,7 @@ export const Form = () => {
             />
             
             <button onClick={handleSubmit} >
-               <img src="/images/search.svg" alt="search"  />
+               <img src="images/search.svg" alt="search"  />
             </button>
            
         </form>
